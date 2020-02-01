@@ -22,3 +22,18 @@
   - Global: `~/.rspec` (in the user's home directory)
 
       > Local > Project > Global
+
+> Spec should only change when behaviour does
+
+### Helper methods
+  - def card, def subject
+
+### Shared examples
+  - shared_examples_for, it_behaves_like
+
+### Rspect convenience
+  - let, subject
+
+### Concepts
+  - Reduce dependency
+  - Spec behaviour, not implementation
