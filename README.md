@@ -45,3 +45,11 @@
 ### Aliases
   - `context` => `describe`
   - `example` => `it`
+
+### Built-in Matchers
+
+- `eq` => Equality
+- `be </>/<=/>=` - Comparison
+- `match/start_with` - Sting matchers
+  `be_truthy` - not nil or false
+  `respond_to` - supports a method
