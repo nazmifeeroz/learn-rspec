@@ -37,3 +37,11 @@
 ### Concepts
   - Reduce dependency
   - Spec behaviour, not implementation
+
+### Group Mental Model
+  - Classes and methods!
+  - `describe` and `it` are just fancy syntax
+
+### Aliases
+  - `context` => `describe`
+  - `example` => `it`
